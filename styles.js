@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports) {
 
-module.exports = [[module.i, "body {\n  background-color: #54bef0;\n  background-image: linear-gradient(90deg, transparent 50%, #78e9fafa 50%);\n  background-size: 50px 50px; }\n\n* {\n  box-sizing: border-box; }\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9DOlxcZHNhXFxkc2Evc3JjXFxzdHlsZXMuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLDBCQUFtQztFQUNuQyx5RUFBd0U7RUFDeEUsMkJBQTBCLEVBQ3pCOztBQUNEO0VBQ0ksdUJBQXNCLEVBQ3pCIiwiZmlsZSI6InNyYy9zdHlsZXMuc2NzcyIsInNvdXJjZXNDb250ZW50IjpbImJvZHkge1xuICAgIGJhY2tncm91bmQtY29sb3I6IHJnYig4NCwgMTkwLCAyNDApO1xuICAgIGJhY2tncm91bmQtaW1hZ2U6IGxpbmVhci1ncmFkaWVudCg5MGRlZywgdHJhbnNwYXJlbnQgNTAlLCAjNzhlOWZhZmEgNTAlKTtcbiAgICBiYWNrZ3JvdW5kLXNpemU6IDUwcHggNTBweDtcbiAgICB9XG4gICAgKiB7XG4gICAgICAgIGJveC1zaXppbmc6IGJvcmRlci1ib3g7XG4gICAgfVxuICAgIFxuICAgIl19 */", '', '']]
+module.exports = [[module.i, "body {\n  background-color: #c6d8fa;\n  background-size: 50px 50px; }\n\n* {\n  box-sizing: border-box; }\n\n/*# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbInNyYy9DOlxcZHNhXFxkc2Evc3JjXFxzdHlsZXMuc2NzcyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQTtFQUNJLDBCQUFvQztFQUVwQywyQkFBMEIsRUFDekI7O0FBQ0Q7RUFDSSx1QkFBc0IsRUFDekIiLCJmaWxlIjoic3JjL3N0eWxlcy5zY3NzIiwic291cmNlc0NvbnRlbnQiOlsiYm9keSB7XG4gICAgYmFja2dyb3VuZC1jb2xvcjogcmdiKDE5OCwgMjE2LCAyNTApO1xuICAgXG4gICAgYmFja2dyb3VuZC1zaXplOiA1MHB4IDUwcHg7XG4gICAgfVxuICAgICoge1xuICAgICAgICBib3gtc2l6aW5nOiBib3JkZXItYm94O1xuICAgIH1cbiAgICBcbiAgICJdfQ== */", '', '']]
 
 /***/ }),
 
